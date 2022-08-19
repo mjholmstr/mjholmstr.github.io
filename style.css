@@ -1,11 +1,23 @@
 body{
-  background-image: url( 'so-white.png') ;
+  background-image: url( 'http://cdn.backgroundhost.com/backgrounds/subtlepatterns/cardboard_1.png') ;
   color: Black;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%
+  margin: 10% 5%
 }
 
+p#contact-info{
+  color : rgb(100,100,100)
+}
+img {
+  float : right ;
+  margin : 10px ;
+  transform : rotate(20deg) ;
+  outline-style : double ;
+  box-shadow: 7px 7px 5px 1px grey;
+  
+}
 .exp-header {
+  clear : both ;
   text-transform: uppercase;
  
 }
